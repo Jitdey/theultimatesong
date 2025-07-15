@@ -799,7 +799,7 @@ const Home = () => {
           <a
             target="_blank"
             href={
-              "https://github.com/patelharsh80874/THE-ULTIMATE-SONGS-WEBAPP"
+              "https://github.com/Jitdey"
             }
             className="ml-4 sm:ml-2 cursor-pointer  text-3xl  text-zinc-500   ri-github-fill"
           ></a>
